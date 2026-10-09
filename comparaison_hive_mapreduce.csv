@@ -1,0 +1,6 @@
+job,nb_cles_hive,nb_cles_reference,ecart_max,origine_reference,statut
+transactions_par_ville,8,8,0.0,reconstruite localement,PASS
+ca_par_ville,8,8,0.0,reconstruite localement,PASS
+quantite_par_produit,21,21,0.0,reconstruite localement,PASS
+ca_par_categorie,5,5,0.0,reconstruite localement,PASS
+transactions_par_paiement,5,5,0.0,reconstruite localement,PASS

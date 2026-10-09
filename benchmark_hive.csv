@@ -1,0 +1,13 @@
+requete,duree_s
+Q1a_ca_mensuel,19.1
+Q1b_ca_annuel,12.7
+Q2_ca_panier_ville,23.6
+Q3_top10_produits,15.3
+Q4_ventes_categorie_paiement,13.4
+Q5_impact_promotions,13.2
+Q6_activite_jour_semaine,11.7
+Q7_transactions_par_ville,10.3
+Q7_ca_par_ville,16.2
+Q7_quantite_par_produit,6.0
+Q7_ca_par_categorie,6.3
+Q7_transactions_par_paiement,7.7
